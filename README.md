@@ -1,2 +1,6 @@
-# Mod.Software-proj-urna-eletronica
-Sua empresa foi contratada para modelar um novo sistema para votação eletrônica, chamado UE, dividido em dois módulos: de votação (UEv) e de gerenciamento (UEg)
+<div align="center">
+
+# PROJETO 1 - GRUPO K (NOTURNO)
+## MODELAGEM DE SISTEMAS ORIENTADOS A OBJETOS
+### [Acesse nosso Wiki:](https://github.com/beatrizmanaia26/Mod.Software-proj-urna-eletronica/wiki)
+</div>
